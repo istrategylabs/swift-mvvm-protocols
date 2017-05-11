@@ -1,6 +1,6 @@
 # Protocols and MVVM in Swift to avoid repetition demo
-This repo contains a demo project for a WIP blogpost for the [ISL Engineering sudo site](https://sudo.isl.co).
+This repo contains a demo project for a blogpost for the [ISL Engineering sudo site](https://sudo.isl.co).
 
-The readme will be updated with a link once the post is live.
+You can find the [blog post here](https://sudo.isl.co/swift-mvvm-protocols/). Tweet at [@thomasdegry](https://twitter.com/thomasdegry) with questions or remarks!
 
 👋
